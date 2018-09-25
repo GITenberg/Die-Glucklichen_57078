@@ -1,11 +1,16 @@
 _repo: Die-Glucklichen_57078
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57078-h/images/cover.jpg
 creator:
   author:
     agent_name: Bernhard, Marie
     gutenberg_agent_id: '49181'
     url: http://www.gutenberg.org/2009/agents/49181
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57078#Die-Glucklichen
 gutenberg_issued: '2018-05-02'
 gutenberg_type: Text
 identifiers:
